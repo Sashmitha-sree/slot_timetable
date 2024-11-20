@@ -73,13 +73,59 @@ Execute the program using runserver command.
                 <TH bgcolor="#EBDDE2">FWAD</TH>
             </tr>
         </table>
+        <br>
+        <table align="center" width="540" cellspacing="2" cellpadding="4" border="5">
+            <tr align="center">
+                <th>sno</th>
+                <th>subject code</th>
+                <th>subject name</th>
+            </tr>
+            <tr align="center">
+                <th>1.</th>
+                <th>19AI414</th>
+                <th>fundamentals of web application</th>
+                
+            </tr>
+            <tr align="center">
+                <th>2.</th>
+                <th>19CY205</th>
+                <th>principles of chemistry in engineering</th>
+
+            </tr>
+            <tr align="center">
+                <th>3.</th>
+                <th>19AI403</th>
+                <th>introduction to data science</th>
+            </tr>
+            <tr align="center">
+                <th>4.</th>
+                <th>19AI304</th>
+                <th>fundamental of c programming</th>
+            </tr>
+            <tr align="center">
+                <th>5.</th>
+                <th>19EE404</th>
+                <th>digital electronics</th>
+            </tr>
+            <tr align="center">
+                <th>6.</th>
+                <th>19EN101</th>
+                <th>communicative english</th>
+            </tr>
+            <tr align="center">
+                <th>7.</th>
+                <th>19EY708</th>
+                <th>career development</th>
+                
+            </tr>
+        </table>
     </body>
 </html>
 '''
 
 
 ## OUTPUT
-![alt text](<Screenshot (3).png>)
+![alt text](<Screenshot (8).png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
